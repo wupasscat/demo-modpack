@@ -1,0 +1,22 @@
+//Parameters for the building as a whole
+building.length=26
+building.width=26
+building.max=0
+building.areatoclear=1
+building.buildingorientation=2
+building.travelbook_category=house
+building.max=2
+building.icon=steelaxe
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Barracks
+initial.priority=30000
+initial.male=townguard
+initial.male=townguard
+initial.male=orc_warrior
+initial.male=orc_warrior
+initial.male=ogre_slave
+initial.male=ogre_slave
+initial.pathwidth=6
+

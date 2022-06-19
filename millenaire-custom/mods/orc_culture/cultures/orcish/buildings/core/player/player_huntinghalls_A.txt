@@ -1,0 +1,22 @@
+//Parameters for the building as a whole
+building.length=25
+building.width=28
+building.max=0
+building.areatoclear=1
+building.buildingorientation=2
+building.travelbook_category=house
+building.max=2
+building.icon=arrow
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Huntinghalls
+initial.priority=35000
+initial.male=townguardarcher
+initial.male=townguardarcher
+initial.male=orc_dragonhunter
+initial.male=orc_dragonhunter
+initial.female=orc_female_huntress
+initial.female=orc_female_huntress
+initial.pathwidth=6
+

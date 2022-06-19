@@ -1,0 +1,72 @@
+village.circle_of_ancients=Circle of the Ancients
+village.settlement=Orcish Huntinghalls
+village.outpost=Orcish Outpost
+village.controlled=Orcish Hive City
+village.controlled_farmlands=Orcish Hive Farmlands
+village.controlled_lumberfarms=Orcish Hive Warmill
+
+
+
+villager.assistant=Assistant
+villager.assistantsmith=Assistant Smith
+villager.armorsmith=Armorsmith
+villager.armormaker=Armormaker
+villager.smith=Warsmith
+villager.masterwarsmith=Fortress Grandmaster-Warsmith
+villager.banditarcher=Bandit Archer
+villager.banditaxeman=Bandit Axeman
+villager.banditlightswordsman=Bandit Light Swordsman
+villager.banditswordsman=Bandit Swordsman
+villager.boy=Boy
+villager.builder=Masterbuilder
+villager.builderwife=Builder
+villager.builder_lesser=Peon
+villager.builderwife_lesser=Serf
+villager.captain=Warchief
+villager.captainwife=Tribemother
+villager.cattlefarmer=Bestiary Master
+villager.cattlefarmerwife=Bestiary Mistress
+villager.dyefarmer=Witchdoctor
+villager.dyefarmerwife=Orcish Witch
+villager.nurse=Healer
+villager.farmer=Farmer
+villager.farmerwife=Farmer's Wife
+villager.girl=Girl
+villager.leader=Orcish Leader
+villager.lumberjack=Lumberjack
+villager.merchant=Rogue
+villager.miner=Mine Slave
+villager.minerwife=Slaveoverseer
+villager.priestess=Priestess
+villager.circleleader=Circle Leader
+villager.warlock=Warlock
+villager.toolmaker=Toolmaker
+villager.orc_dragonhunter=Orc Dragonhunter
+villager.orc_warrior=Orc Elite Warrior
+villager.orc_female_huntress=Huntress
+villager.ogre_slave_warrior=Ogre Slave Warrior
+villager.ogre_slave=Ogre Slave
+villager.orc_wife=Wife
+villager.townguard=Village Guard
+villager.townguardarcher=Village Archer
+
+shop.hospital=Potionbrewing
+shop.bestiary=Cattle Farm
+shop.butcher=Orcish Cook
+shop.dyefarm=Witchdoctor's Hut
+shop.warsmith=Warsmith
+shop.armorsmith=Armorsmith
+shop.armormaker=Armormaker
+shop.bowmaker=Bowmaker
+shop.toolmaker=Toolmaker
+shop.towncenter=Townhall
+
+
+goal.extractdyegreen=Extracting Dye
+goal.extractdyelightblue=Extracting Dye
+goal.extractdyelightgray=Extracting Dye
+goal.extractdyemagenta=Extracting Dye
+goal.extractdyeorange=Extracting Dye
+goal.extractdyepink=Extracting Dye
+goal.extractdyered=Extracting Dye
+goal.extractdyeyellow=Extracting Dye

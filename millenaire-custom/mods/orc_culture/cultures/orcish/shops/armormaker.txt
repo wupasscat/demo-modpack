@@ -1,0 +1,5 @@
+buys=iron,gold,leather,wood
+
+sells=leatherhelmet,leatherchest,leatherlegs,leatherboots
+
+deliverto=iron,gold,leather,wood

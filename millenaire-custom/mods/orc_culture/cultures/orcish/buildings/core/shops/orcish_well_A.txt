@@ -1,0 +1,18 @@
+//Parameters for the building as a whole
+building.length=11
+building.width=23
+building.areatoclear=1
+building.max=0
+building.farfromtag=pathnode,30
+building.icon=bucketwater
+
+//Parameters for initial construction
+initial.startlevel=-15
+initial.nativename=Orcish Well
+initial.priority=750
+initial.tag=pathnode
+
+initial.male=merchant
+initial.female=nurse
+initial.shop=brewcart
+

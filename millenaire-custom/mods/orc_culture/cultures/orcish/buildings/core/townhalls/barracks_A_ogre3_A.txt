@@ -1,0 +1,16 @@
+//Parameters for the building as a whole
+building.length=41
+building.width=46
+building.issubbuilding=true
+building.parentbuildingplan=barracks_A9
+building.max=0
+building.icon=steelaxe
+
+//Parameters for initial construction
+initial.startlevel=-10
+initial.nativename=Ogre Cage
+initial.male=ogre_slave
+initial.female=orc_wife
+initial.priority=500
+
+

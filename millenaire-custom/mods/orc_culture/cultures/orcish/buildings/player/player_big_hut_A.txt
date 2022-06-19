@@ -1,0 +1,14 @@
+building.length=11
+building.width=18
+building.buildingorientation=3
+building.max=0
+building.reputation=2048
+building.price=1024
+building.icon=denierargent
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Conquerers Hut
+initial.priority=1000000
+initial.pathlevel=1

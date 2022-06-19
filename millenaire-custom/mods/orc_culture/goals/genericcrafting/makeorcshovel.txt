@@ -1,0 +1,35 @@
+//Note to Windows users: if you see the entire file in one line, open it using PSPad or UltraEdit instead of Notepad
+//extra tag required for the destination to be valid
+
+requiredTag=armoury
+
+
+priority=100
+
+
+//specify if the label and sentences for this goal is not the name of the goal itself
+
+sentencekey=makesorcishshovel
+
+
+//en/in millisecondes
+
+duration=60000
+
+//objets tenus par le villageois
+
+heldItems=leather,iron
+
+
+//each action will require and use all the inputs and produce all the outputs
+
+input=iron,6
+input=leather,1
+output=orc_shovel,1
+
+
+//if more than that number of item is present in building, stop goal
+
+buildinglimit=orc_shovel,5
+
+sound=metal

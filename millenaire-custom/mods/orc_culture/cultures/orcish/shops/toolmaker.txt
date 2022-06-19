@@ -1,0 +1,5 @@
+buys=iron,gold,leather,wood,steelaxe,steelhoe,steelpickaxe,diamondaxe,diamondhoe,diamondpickaxe
+
+sells=steelaxe,steelhoe,steelpickaxe
+
+deliverto=iron,gold,leather,wood,stone,cobblestone

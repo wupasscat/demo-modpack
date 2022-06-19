@@ -1,0 +1,8 @@
+cactus;minecraft:cactus;0;true;100/99/99
+sunflower;minecraft:double_plant;0;false;93/99/99
+lilac;minecraft:double_plant;1;false;99/99/99
+rose bush;minecraft:double_plant;4;false;94/99/99
+peony;minecraft:double_plant;5;false;95/99/99
+blue orchid;minecraft:red_flower;1;false;98/99/99
+azure bluet;minecraft:red_flower;3;false;97/99/99
+orange tulip;minecraft:red_flower;5;false;96/99/99

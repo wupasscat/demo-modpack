@@ -1,0 +1,3 @@
+buys=dye_green,dye_lightblue,dye_magenta,dye_lightgray,dye_orange,dye_pink,dye_red,dye_yellow,wool_white,paper
+
+sells=dye_green,dye_lightblue,dye_magenta,dye_lightgray,dye_orange,dye_pink,dye_red,dye_yellow,wool_white,paper

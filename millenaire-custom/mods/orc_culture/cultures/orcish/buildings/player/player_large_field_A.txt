@@ -1,0 +1,16 @@
+//Parameters for the building as a whole
+building.length=10
+building.width=12
+building.buildingorientation=3
+building.max=0
+building.reputation=1024
+building.price=440
+building.icon=fence_oak
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Large Field
+initial.priority=1000000
+initial.pathlevel=1
+

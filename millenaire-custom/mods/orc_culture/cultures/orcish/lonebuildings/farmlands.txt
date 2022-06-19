@@ -1,0 +1,108 @@
+name=Orcish Farmlands
+weight=10
+radius=15
+carriesraid=false
+icon=wheat
+
+//Vanilla biomes
+biome=River
+biome=Plains
+biome=Sunflower Plains
+biome=Roofed Forest
+biome=Desert
+biome=Mesa
+biome=Swampland
+biome=Savanna
+biome=Plateau
+biome=Jungle
+biome=Plains
+biome=Extreme Hills
+biome=Extreme Hills+
+biome=Extreme Hills+ M
+biome=cold taiga
+biome=cold taiga m
+biome=cold taiga hills
+biome=frozen river
+
+//biomes o' plenty
+biome=brushland
+biome=chaparral
+biome=eucalyptus forest
+biome=grassland
+biome=meadow
+biome=orchard
+biome=seasonal forest
+
+//Traverse biomes
+biome=Autumnal Woods
+biome=Meadow
+biome=Birch Forested Hills
+biome=Snowy Coniferous Forest
+biome=Lush Hills
+
+//extraBiomes 
+
+biome=autumn woods
+biome=green hills
+biome=forested hills
+
+
+pathmaterial=pathdirt
+
+//starting buildings
+
+centre=player_hive_farm
+start=watchtower
+start=builderstent
+start=farmhut
+start=farmhut
+
+core=farmhut
+core=dyefarmhut
+core=brewcart
+core=emptycart
+core=windmill
+core=orcish_well
+
+never=fortress
+never=player_circle
+never=player_barracks
+never=player_huntinghalls
+never=boneyard
+never=lumberfarm
+never=grove
+never=warsmith
+never=marketplace
+never=burrow
+never=ram
+never=bonecircle
+never=cages
+never=armorsmith
+never=toolsmith
+never=bowmaker
+never=toolmaker
+never=armormaker
+never=torch
+never=torchpillar
+never=player_small_hut
+never=player_small_tent
+never=player_big_hut
+never=player_big_tent
+
+
+//banner patterns
+banner_json={BlockEntityTag:{Base:1,Patterns:[{Pattern:orcs.orc_player,Color:15}]}}
+banner_json={BlockEntityTag:{Base:2,Patterns:[{Pattern:orcs.orc_player,Color:15}]}}
+banner_json={BlockEntityTag:{Base:3,Patterns:[{Pattern:orcs.orc_player,Color:15}]}}
+banner_json={BlockEntityTag:{Base:4,Patterns:[{Pattern:orcs.orc_player,Color:0}]}}
+banner_json={BlockEntityTag:{Base:5,Patterns:[{Pattern:orcs.orc_player,Color:15}]}}
+banner_json={BlockEntityTag:{Base:6,Patterns:[{Pattern:orcs.orc_player,Color:0}]}}
+banner_json={BlockEntityTag:{Base:7,Patterns:[{Pattern:orcs.orc_player,Color:15}]}}
+banner_json={BlockEntityTag:{Base:8,Patterns:[{Pattern:orcs.orc_player,Color:0}]}}
+banner_json={BlockEntityTag:{Base:9,Patterns:[{Pattern:orcs.orc_player,Color:15}]}}
+banner_json={BlockEntityTag:{Base:10,Patterns:[{Pattern:orcs.orc_player,Color:15}]}}
+banner_json={BlockEntityTag:{Base:11,Patterns:[{Pattern:orcs.orc_player,Color:15}]}}
+banner_json={BlockEntityTag:{Base:12,Patterns:[{Pattern:orcs.orc_player,Color:15}]}}
+banner_json={BlockEntityTag:{Base:13,Patterns:[{Pattern:orcs.orc_player,Color:15}]}}
+banner_json={BlockEntityTag:{Base:14,Patterns:[{Pattern:orcs.orc_player,Color:15}]}}
+banner_json={BlockEntityTag:{Base:15,Patterns:[{Pattern:orcs.orc_player,Color:15}]}}

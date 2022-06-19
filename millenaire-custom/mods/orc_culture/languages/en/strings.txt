@@ -1,0 +1,27 @@
+culture.orcish=ORCS
+culture.fullname=The ORCS!
+
+
+goal.extractdyegreen=Extracting Dye
+goal.extractdyelightblue=Extracting Dye
+goal.extractdyelightgray=Extracting Dye
+goal.extractdyemagenta=Extracting Dye
+goal.extractdyeorange=Extracting Dye
+goal.extractdyepink=Extracting Dye
+goal.extractdyered=Extracting Dye
+goal.extractdyeyellow=Extracting Dye
+
+goal.makeorchunhelm=Making Hunting Helm
+goal.makeorchunchest=Making Hunting Cuirass
+goal.makeorchunlegs=Making Hunting Leggings
+goal.makeorchunboots=Making Hunting Boots
+goal.makeorcsword=Forging Orcish Sword
+goal.makeorcbow=Forging Orcish Bow
+goal.makeorcaxe=Making Orcish Axe
+goal.makeorcpickaxe=Making Orcish Pickaxe
+goal.makeorchoe=Making Orcish Hoe
+goal.makeorcshovel=Making Orcish Shovel
+goal.makeorcwarhelm=Forging Warrior Full Helm
+goal.makeorcwarchest=Forging Warrior Chestplate
+goal.makeorcwarlegs=Forging Warrior Greaves
+goal.makeorcwarboots=Forging Warrior Boots

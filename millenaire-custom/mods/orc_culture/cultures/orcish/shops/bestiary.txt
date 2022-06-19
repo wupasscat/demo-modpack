@@ -1,0 +1,5 @@
+buys=leather,beefraw,porkchops,chickenmeat,wheat,carrot
+
+sells=beefraw,porkchops,chickenmeat,beefcooked,porkchopscooked,chickenmeatcooked,tripes,bone,egg
+
+deliverto=beefraw,porkchops,chickenmeat,wheat,carrot

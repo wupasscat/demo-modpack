@@ -1,0 +1,12 @@
+building.length=12
+building.width=3
+building.max=0
+building.buildingorientation=3
+building.icon=banner_white
+building.isborderbuilding=true
+building.areatoclear=1
+
+initial.startlevel=-5
+initial.nativename=Bordergate
+initial.tag=borderpostsign
+initial.tag=patrol

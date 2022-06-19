@@ -1,0 +1,13 @@
+building.length=22
+building.width=19
+building.areatoclear=1
+building.max=0
+building.travelbook_category=othervillage
+building.icon=bone
+
+//Parameters for initial construction
+initial.startlevel=-5
+initial.nativename=Bonecircle
+initial.priority=850
+initial.pathwidth=0
+initial.tag=praying

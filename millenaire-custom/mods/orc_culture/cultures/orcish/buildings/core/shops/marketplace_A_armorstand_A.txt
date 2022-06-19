@@ -1,0 +1,15 @@
+//Parameters for the building as a whole
+building.length=24
+building.width=24
+building.issubbuilding=true
+building.parentbuildingplan=marketplace_A2
+building.max=0
+building.icon=leatherchest
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Weapons and Armor stand
+initial.priority=780
+initial.male=smith
+initial.tag=leasure
+initial.shop=warsmith

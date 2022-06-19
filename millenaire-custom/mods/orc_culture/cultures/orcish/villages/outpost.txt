@@ -1,0 +1,147 @@
+name=Orcish War-Outpost
+weight=15
+carriesraid=true
+icon=steelaxe
+
+pathmaterial=pathdirt
+
+//Vanilla biomes
+biome=River
+biome=Plains
+biome=Sunflower Plains
+biome=Desert
+biome=Mesa
+biome=Savanna
+biome=Plateau
+biome=Extreme Hills
+biome=Extreme Hills+
+biome=Extreme Hills+ M
+biome=cold taiga
+biome=cold taiga m
+biome=cold taiga hills
+biome=frozen river
+
+//BoP mod
+
+biome=alps
+biome=boreal forest
+biome=cold desert
+biome=dead forest
+biome=snowy coniferous forest
+biome=snowy forest
+biome=tundra
+biome=glacier
+
+//biomes o' plenty
+biome=brushland
+biome=chaparral
+biome=grassland
+biome=meadow
+biome=orchard
+biome=seasonal forest
+
+//Traverse biomes
+biome=Autumnal Woods
+biome=Meadow
+biome=Birch Forested Hills
+biome=Snowy Coniferous Forest
+biome=Lush Hills
+
+//extraBiomes 
+
+biome=autumn woods
+biome=green hills
+biome=forested hills
+
+innerWallType=orcishwalls
+innerWallRadius=61
+
+outerWallType=borderposts
+
+//starting buildings
+
+centre=barracks
+start=boneyard
+start=lumberfarm
+start=grove
+start=burrow
+start=warsmith
+
+player=player_small_hut
+player=player_big_hut
+player=player_small_field
+player=player_large_field
+
+core=armorsmith
+core=toolsmith
+core=bowmaker
+core=brewcart
+core=burrow
+core=burrow
+core=marketplace
+core=orcish_well
+core=grove
+core=bestiary
+core=bestiary
+core=watchtower
+core=watchtower
+
+secondary=watchtower
+secondary=ram
+secondary=shack
+secondary=shack
+secondary=shack
+secondary=shack
+secondary=shack
+secondary=shack
+secondary=shack
+secondary=shack
+secondary=shack
+secondary=shack
+
+secondary=cages
+secondary=cages
+secondary=cages
+secondary=torch
+secondary=torch
+secondary=torch
+secondary=torch
+secondary=torch
+secondary=torch
+secondary=torchpillar
+secondary=torchpillar
+secondary=torchpillar
+secondary=torchpillar
+
+never=boneyard_circle
+never=boneyard_settlement
+never=boneyardwatchtower
+never=bonecircle
+never=nomadstent
+never=emptycart
+never=toolmaker
+never=armormaker
+never=windmill
+never=dyefarmhut
+never=farmhut
+never=player_circle
+never=player_barracks
+never=player_huntinghalls
+never=fortress
+
+//banner patterns
+banner_json={BlockEntityTag:{Base:1,Patterns:[{Pattern:orcs.orc_melee,Color:15}]}}
+banner_json={BlockEntityTag:{Base:2,Patterns:[{Pattern:orcs.orc_melee,Color:15}]}}
+banner_json={BlockEntityTag:{Base:3,Patterns:[{Pattern:orcs.orc_melee,Color:15}]}}
+banner_json={BlockEntityTag:{Base:4,Patterns:[{Pattern:orcs.orc_melee,Color:0}]}}
+banner_json={BlockEntityTag:{Base:5,Patterns:[{Pattern:orcs.orc_melee,Color:15}]}}
+banner_json={BlockEntityTag:{Base:6,Patterns:[{Pattern:orcs.orc_melee,Color:0}]}}
+banner_json={BlockEntityTag:{Base:7,Patterns:[{Pattern:orcs.orc_melee,Color:15}]}}
+banner_json={BlockEntityTag:{Base:8,Patterns:[{Pattern:orcs.orc_melee,Color:0}]}}
+banner_json={BlockEntityTag:{Base:9,Patterns:[{Pattern:orcs.orc_melee,Color:15}]}}
+banner_json={BlockEntityTag:{Base:10,Patterns:[{Pattern:orcs.orc_melee,Color:15}]}}
+banner_json={BlockEntityTag:{Base:11,Patterns:[{Pattern:orcs.orc_melee,Color:15}]}}
+banner_json={BlockEntityTag:{Base:12,Patterns:[{Pattern:orcs.orc_melee,Color:15}]}}
+banner_json={BlockEntityTag:{Base:13,Patterns:[{Pattern:orcs.orc_melee,Color:15}]}}
+banner_json={BlockEntityTag:{Base:14,Patterns:[{Pattern:orcs.orc_melee,Color:15}]}}
+banner_json={BlockEntityTag:{Base:15,Patterns:[{Pattern:orcs.orc_melee,Color:15}]}}

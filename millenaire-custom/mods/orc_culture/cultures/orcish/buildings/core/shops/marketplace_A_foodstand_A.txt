@@ -1,0 +1,16 @@
+//Parameters for the building as a whole
+building.length=24
+building.width=24
+building.issubbuilding=true
+building.parentbuildingplan=marketplace_A4
+building.max=0
+building.icon=apple
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Foodstand
+initial.priority=280
+initial.female=farmerwife
+initial.tag=leasure
+initial.shop=farmhut
+

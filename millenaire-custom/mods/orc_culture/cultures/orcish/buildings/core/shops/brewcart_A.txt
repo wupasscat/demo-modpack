@@ -1,0 +1,19 @@
+//Parameters for the building as a whole
+building.length=11
+building.width=15
+building.areatoclear=1
+building.max=0
+building.travelbook_category=house
+building.icon=bottle
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Orcish Brewcart
+initial.priority=1000
+initial.male=merchant
+initial.female=nurse
+initial.pathwidth=1
+initial.tag=drinking
+initial.tag=leasure
+initial.shop=brewcart
+

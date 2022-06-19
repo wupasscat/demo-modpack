@@ -1,0 +1,5 @@
+buys=iron,gold,leather,ironnugget,orc_sword,orc_bow,orc_axe,orc_pickaxe,orc_hoe,orc_shovel,orc_warrior_helmet,orc_warrior_chestplate,orc_warrior_leggings,orc_warrior_boots,orc_hunter_helmet,orc_hunter_chestplate,orc_hunter_leggings,orc_hunter_boots
+
+sells=leatherhelmet,leatherchest,leatherlegs,leatherboots,steelsword,steelaxe,steelboots,steelchest,steelhelmet,steellegs,steelhoe,steelpickaxe,steelshovel,orc_sword,orc_bow,orc_axe,orc_pickaxe,orc_hoe,orc_shovel,orc_warrior_helmet,orc_warrior_chestplate,orc_warrior_leggings,orc_warrior_boots,orc_hunter_helmet,orc_hunter_chestplate,orc_hunter_leggings,orc_hunter_boots
+
+deliverto=iron,gold,leather,ironnugget

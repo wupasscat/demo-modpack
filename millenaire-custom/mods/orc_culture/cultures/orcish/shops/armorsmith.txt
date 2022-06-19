@@ -1,0 +1,5 @@
+buys=iron,gold,leather,wood,orc_hunter_helmet,orc_hunter_chestplate,orc_hunter_leggings,orc_hunter_boots
+
+sells=leatherhelmet,leatherchest,leatherlegs,leatherboots,steelhelmet,steelchest,steellegs,steelboots,orc_hunter_helmet,orc_hunter_chestplate,orc_hunter_leggings,orc_hunter_boots
+
+deliverto=iron,gold,coal,leather,wood

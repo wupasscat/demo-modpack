@@ -1,0 +1,16 @@
+
+//Parameters for the building as a whole
+building.length=31
+building.width=21
+building.areatoclear=1
+building.max=0
+building.travelbook_category=house
+building.icon=beefcooked
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Orcish Feasting Tent
+initial.priority=1250
+initial.pathwidth=10
+initial.tag=drinking
+initial.tag=leasure

@@ -1,0 +1,29 @@
+//Parameters for the building as a whole
+building.length=25
+building.width=27
+building.areatoclear=1
+building.max=0
+building.buildingorientation=2
+building.travelbook_category=house
+building.icon=beefraw
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Bestiary
+initial.priority=1400
+initial.male=cattlefarmer
+initial.female=cattlefarmerwife
+initial.pathwidth=3
+initial.tag=cattle
+initial.tag=chicken
+initial.tag=pigs
+initial.shop=bestiary
+
+//Parameters for specific upgrades
+upgrade1.startlevel=-1
+upgrade1.priority=500
+upgrade1.rebuildpath=true
+
+upgrade2.startlevel=-1
+upgrade2.priority=250
+upgrade2.rebuildpath=true

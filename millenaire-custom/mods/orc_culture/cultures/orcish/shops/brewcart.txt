@@ -1,0 +1,5 @@
+buys=bottle,blazepowder,melon,full_bottle,sugar
+
+sells=strength_potion,swift_potion,healing_potion
+
+deliverto=bottle,blazepowder,melon,full_bottle,sugar,strength_potion,swift_potion,healing_potion

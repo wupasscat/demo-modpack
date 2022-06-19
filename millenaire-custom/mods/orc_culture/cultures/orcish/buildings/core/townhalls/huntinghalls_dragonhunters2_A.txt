@@ -1,0 +1,15 @@
+//Parameters for the building as a whole
+building.length=33
+building.width=34
+building.issubbuilding=true
+building.parentbuildingplan=huntinghalls_A2
+building.max=0
+building.icon=bow
+
+//Parameters for initial construction
+initial.startlevel=-6
+initial.nativename=Chamber
+initial.male=orc_dragonhunter
+initial.female=orc_female_huntress
+initial.priority=850
+

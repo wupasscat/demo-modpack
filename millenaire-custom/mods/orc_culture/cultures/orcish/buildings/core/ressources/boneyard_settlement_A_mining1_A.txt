@@ -1,0 +1,17 @@
+//Parameters for the building as a whole
+building.length=31
+building.width=37
+building.issubbuilding=true
+building.parentbuildingplan=boneyard_settlement_A3
+building.max=0
+building.icon=steelpickaxe
+
+//Parameters for initial construction
+initial.startlevel=-15
+initial.nativename=Miningslaves
+initial.female=minerwife
+initial.male=miner
+initial.male=miner
+initial.male=miner
+initial.tag=oven
+

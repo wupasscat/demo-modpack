@@ -1,0 +1,19 @@
+//Parameters for the building as a whole
+building.length=24
+building.width=22
+building.areatoclear=1
+building.max=0
+building.buildingorientation=2
+building.travelbook_category=house
+building.icon=cotton
+
+//Parameters for initial construction
+initial.startlevel=-2
+initial.nativename=Witchdoctors Hut
+initial.priority=900
+initial.male=dyefarmer
+initial.female=dyefarmerwife
+initial.pathwidth=2
+initial.tag=dyefarm
+initial.shop=dyefarm
+

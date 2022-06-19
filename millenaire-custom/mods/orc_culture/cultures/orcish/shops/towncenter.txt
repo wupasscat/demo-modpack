@@ -1,0 +1,7 @@
+buys=cobblestone,stone,wood,wood_pine,wood_birch,wool_white,banner_white,book,bookshelves,quartz,iron,ironnugget,gravel,wheat
+
+sells=cobblestone,stone,gravel,quartz,iron,ironnugget,wood,wood_pine,wood_birch,summoningwand,banner_white,chickenmeatcooked,porkchopscooked,beefcooked,bed_straw,wool_white
+
+buysoptional=normanHelmet,normanplate,normanLegs,normanBoots,normanBroadsword,bow,byzantineMace,byzantineHelmet,byzantinePlate,byzantineLegs,byzantineBoots,yumibow,tachisword,japaneseguardboots,japaneseguardHelmet,japaneseguardLegs,japaneseguardPlate,japaneseblueboots,japanesebluehelmet,japanesebluelegs,japaneseblueplate,japaneseredboots,japaneseredhelmet,japaneseredlegs,japaneseredplate,mayanmace,stoneSword,leatherHelmet,leatherChest,leatherLegs,leatherBoots,steelSword,steelHelmet,steelChest,steelLegs,steelBoots,diamondSword,diamondHelmet,diamondChest,diamondLegs,diamondBoots,normanAxe,normanPickaxe,normanShovel,normanHoe,mayanpickaxe,mayanaxe,mayanshovel,mayanhoe,stonePickaxe,stoneAxe,stoneShovel,stoneHoe,steelPickaxe,steelAxe,steelShovel,steelHoe,diamondPickaxe,diamondAxe,diamondShovel,diamondHoe,cider,calva,cacauhaa,sake,rasgulla,winefancy,winebasic,feta,cake,cookie,tripes,boudin,wah,masa,chickencurry,vegcurry,ikayaki,udon,souvlaki,cooked_mutton,bread,beefcooked,porkchopscooked,chickenmeatcooked,fishcooked,egg,banner_white,bed_straw,carpet_red
+
+deliverto=cobblestone,stone,wood,wood_pine,wool_white,wool_brown,wool_gray,wool_black,wool_brown,wool_pink,carrot,wheat,potato,banner_white,book,bookshelves,quartz,iron,ironnugget,gravel,bed_straw

@@ -1,0 +1,22 @@
+//Parameters for the building as a whole
+building.length=25
+building.width=23
+building.max=0
+building.areatoclear=1
+building.buildingorientation=2
+building.travelbook_category=house
+building.max=2
+building.icon=totem_of_undying
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Warlocktower
+initial.priority=25000
+initial.male=warlock
+initial.male=warlock
+initial.male=warlock
+initial.male=dyefarmer
+initial.female=dyefarmerwife
+initial.female=orc_female_huntress
+initial.pathwidth=6
+

@@ -1,0 +1,17 @@
+//Parameters for the building as a whole
+building.length=46
+building.width=35
+building.travelbook_category=house
+building.issubbuilding=true
+building.parentbuildingplan=circle_of_the_ancient_A0
+building.max=0
+building.icon=stone
+
+//Parameters for initial construction
+initial.startlevel=-15
+initial.nativename=Spirit Chambers
+initial.male=warlock
+initial.male=warlock
+initial.female=priestess
+initial.pathwidth=6
+

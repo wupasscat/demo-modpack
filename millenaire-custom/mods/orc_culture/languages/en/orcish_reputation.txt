@@ -1,0 +1,16 @@
+//* The part before the ";" is the title, after it the description
+
+0;Stranger;I do not recognize you? What is it you want from us traveller?
+4*64;Familiarity;Hm? What is it %name? What bring's you back to us today?
+8*64;Known Face;You seem to be worthy to be spoken to $name. Grogh takk kagosh!
+16*64;Regular visitor;Throm-Ka $name! Come in! Tell us of your latest travels!
+32*64;Fellow Explorer;Huh, you seem to also be stranded in this world. Well, we can explore this new place together and make it all ours!
+64*64;Favourite Trader;Throm-Ka $name! Do tell me what exotic goods you have to trade today.
+2*64*64;Friend of the orcs;Aka'Magosh! You are a true ally. You are welcome to rest here awhile.
+4*64*64;Ally;In this strange world, everyone needs allies. Consider us one, for all of the help you have given us.
+8*64*64;Warchief;We have sent word to the orcish empire asking for you to become a leader of our race. Your work here has helped us immensely and this is the least we can do to repay that debt.
+32*64*64;Natural Leader;Highest Warchief $name, you have gained the trust and respect of the Orcs. They will follow you anywhere.
+16*32*64*64;The Next of TheMightyGoat!;
+-64;Nuisance;Be careful. orcs are suspicious of you and we are not know for our restraint.
+-4*64;Unpleasant outsider;Leave now before I throw you in the stocks. It's hard enough without you messing things up around here.
+-16*64;Public enemy;The orcs marked you as their enemy! My blood boils when I see you! WAAAAGH!

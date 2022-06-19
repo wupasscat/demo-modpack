@@ -1,0 +1,18 @@
+//Parameters for the building as a whole
+building.length=11
+building.width=11
+building.max=0
+building.areatoclear=1
+building.buildingorientation=2
+building.travelbook_category=house
+building.max=2
+building.icon=arrow
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.priority=750
+initial.nativename=Watchtower
+initial.male=townguard
+initial.male=townguardarcher
+initial.pathwidth=2
+

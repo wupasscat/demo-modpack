@@ -1,0 +1,13 @@
+priority=30
+priorityrandom=10
+
+
+townhalllimit=quartz,1024
+
+sourceblockstate=minecraft:quartz_ore
+
+loot=quartz,1
+
+sentencekey=mining
+
+range=4

@@ -1,0 +1,25 @@
+//Parameters for the building as a whole
+building.length=29
+building.width=26
+building.areatoclear=3
+building.max=0
+building.travelbook_category=house
+building.icon=wheat
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Fieldtent
+initial.priority=1200
+initial.male=farmer
+initial.female=farmerwife
+initial.pathwidth=2
+initial.shop=farmhut
+
+//Parameters for specific upgrades
+upgrade1.startlevel=-1
+upgrade1.priority=500
+upgrade1.rebuildpath=true
+
+upgrade2.startlevel=-1
+upgrade2.priority=250
+upgrade2.rebuildpath=true

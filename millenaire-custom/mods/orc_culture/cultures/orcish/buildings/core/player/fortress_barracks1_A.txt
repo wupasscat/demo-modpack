@@ -1,0 +1,19 @@
+//Parameters for the building as a whole
+building.length=80
+building.width=80
+building.travelbook_category=house
+building.issubbuilding=true
+building.parentbuildingplan=fortress_A0
+building.max=0
+building.icon=stone
+
+//Parameters for initial construction
+initial.startlevel=-11
+initial.nativename=Barracks
+initial.male=orc_warrior
+initial.male=orc_warrior
+initial.male=orc_warrior
+initial.male=townguard
+initial.female=orc_female_huntress
+initial.pathwidth=6
+

@@ -1,0 +1,42 @@
+native_name=Fortress Grandmaster-Warsmith
+gender=male
+familyNameList=orc_low_family_names
+firstNameList=orc_men_names
+baseHeight=1.2
+icon=iron
+
+texture=textures/entity/orcs/smith_0.png
+texture=textures/entity/orcs/smith_1.png
+texture=textures/entity/orcs/smith_2.png
+texture=textures/entity/orcs/smith_3.png
+texture=textures/entity/orcs/smith_4.png
+texture=textures/entity/orcs/smith_5.png
+
+baseAttackStrength=40
+
+//generic goals
+goal=gorest
+goal=gosocialise
+goal=chat
+
+tag=seller
+
+//crafting goals
+goal=makeorcsword
+goal=makeorcaxe
+goal=makeorcwarhelm
+goal=makeorcwarchest
+goal=makeorcwarlegs
+goal=makeorcwarboots
+goal=makearrow
+goal=makeiron
+goal=tendfurnace
+
+
+toolneededclass=meleeweapons
+
+defaultweapon=orc_axe
+startingInv=orc_axe,1
+startingInv=steelboots,1
+
+villagerconfig=orcsweaponpriority

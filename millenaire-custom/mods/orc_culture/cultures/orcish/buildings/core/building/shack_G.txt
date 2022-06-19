@@ -1,0 +1,17 @@
+building.length=11
+building.width=11
+building.areatoclear=0
+building.max=5
+building.buildingorientation=2
+building.version=1
+building.travelbook_category=house
+building.icon=wool_brown
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Orcish Shack
+initial.priority=250
+initial.male=builder_lesser
+initial.female=builderwife_lesser
+initial.prioritymovein=50
+initial.pathwidth=3

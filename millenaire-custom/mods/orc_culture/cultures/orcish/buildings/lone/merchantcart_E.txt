@@ -1,0 +1,16 @@
+building.length=11
+building.width=15
+building.areatoclear=4
+building.travelbook_category=lonebuilding
+building.startinggood=denier,10.0,40,60
+building.startinggood=denierargent,0.5,10,25
+building.startinggood=steelsword,0.3,1,0
+building.startinggood=steellegs,0.3,1,0
+building.startinggood=steelhelmet,0.3,1,0
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Orcish Merchant Cart
+initial.male=merchant
+initial.female=nurse
+initial.pathwidth=0

@@ -1,0 +1,54 @@
+name=Raider Outpost
+weight=15
+radius=100
+mindistancefromspawn=50
+carriesraid=true
+
+//Vanilla biomes
+biome=River
+biome=Plains
+biome=Sunflower Plains
+biome=Roofed Forest
+biome=Desert
+biome=Mesa
+biome=Swampland
+biome=Savanna
+biome=Plateau
+biome=Jungle
+biome=Plains
+biome=Extreme Hills
+biome=Extreme Hills+
+biome=Extreme Hills+ M
+biome=cold taiga
+biome=cold taiga m
+biome=cold taiga hills
+biome=frozen river
+
+//biomes o' plenty
+biome=brushland
+biome=chaparral
+biome=eucalyptus forest
+biome=grassland
+biome=meadow
+biome=orchard
+biome=seasonal forest
+
+//Traverse biomes
+biome=Autumnal Woods
+biome=Meadow
+biome=Birch Forested Hills
+biome=Snowy Coniferous Forest
+biome=Lush Hills
+
+//extraBiomes 
+
+biome=autumn woods
+biome=green hills
+biome=forested hills
+
+
+
+
+//starting buildings:
+
+centre=raideroutpost

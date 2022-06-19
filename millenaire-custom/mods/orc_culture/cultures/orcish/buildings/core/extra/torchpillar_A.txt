@@ -1,0 +1,8 @@
+building.length=3
+building.width=3
+building.max=4
+building.icon=torch
+
+initial.startlevel=-1
+initial.nativename=Torchpillar
+initial.priority=150

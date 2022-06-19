@@ -1,0 +1,16 @@
+//Parameters for the building as a whole
+building.length=41
+building.width=46
+building.issubbuilding=true
+building.parentbuildingplan=barracks_A6
+building.max=0
+building.icon=bow
+
+//Parameters for initial construction
+initial.startlevel=-10
+initial.nativename=Chamber
+initial.male=orc_dragonhunter
+initial.male=orc_dragonhunter
+initial.female=orc_female_huntress
+initial.priority=650
+

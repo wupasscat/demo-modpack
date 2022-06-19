@@ -1,0 +1,17 @@
+//Parameters for the building as a whole
+building.length=16
+building.width=14
+building.areatoclear=2
+building.max=0
+building.buildingorientation=3
+building.travelbook_category=othervillage
+building.mindistance=0.6
+building.icon=sapling
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Orc Grove
+initial.priority=500
+initial.pathwidth=0
+initial.tag=grove
+

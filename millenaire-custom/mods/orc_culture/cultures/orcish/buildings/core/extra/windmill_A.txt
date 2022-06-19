@@ -1,0 +1,15 @@
+//Parameters for the building as a whole
+building.length=11
+building.width=11
+building.max=0
+building.areatoclear=1
+building.farfromtag=pathnode,30
+building.icon=wheat
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Windmill
+initial.priority=450
+initial.tag=pathnode
+initial.tag=leasure
+

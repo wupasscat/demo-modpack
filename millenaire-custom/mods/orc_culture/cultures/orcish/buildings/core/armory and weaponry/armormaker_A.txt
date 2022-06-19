@@ -1,0 +1,20 @@
+//Parameters for the building as a whole
+building.length=19
+building.width=19
+building.areatoclear=1
+building.max=0
+building.buildingorientation=3
+building.version=1
+building.icon=leatherchest
+
+
+//Parameters for initial construction
+initial.startlevel=-2
+initial.nativename=Armormaker
+initial.priority=800
+initial.male=armorsmith
+initial.female=orc_wife
+initial.prioritymovein=15
+initial.tag=armoury
+initial.tag=leasure
+initial.shop=armormaker

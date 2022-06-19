@@ -1,0 +1,14 @@
+building.length=19
+building.width=19
+building.buildingorientation=3
+building.max=0
+building.reputation=2048
+building.price=512
+building.icon=denierargent
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Witchdoctors Hut
+initial.priority=1000000
+initial.pathlevel=1

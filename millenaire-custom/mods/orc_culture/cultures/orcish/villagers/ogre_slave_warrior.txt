@@ -1,0 +1,25 @@
+native_name=Ogre Slave Warrior
+gender=male
+familyNameList=orc_high_family_names
+firstNameList=orc_men_names
+baseHeight=2
+icon=flint
+
+texture=textures/entity/orcs/ogre_slave_0.png
+texture=textures/entity/orcs/ogre_slave_1.png
+texture=textures/entity/orcs/ogre_slave_2.png
+
+tag=helpInAttacks
+
+tag=raider
+tag=helpinattacks
+
+goal=gorest
+goal=patrol
+goal=huntmonster
+
+experiencegiven=90
+health=420
+baseAttackStrength=60
+
+villagerconfig=orcsweaponpriority

@@ -1,0 +1,18 @@
+//Parameters for the building as a whole
+building.length=31
+building.width=37
+building.areatoclear=3
+building.travelbook_category=house
+building.issubbuilding=true
+building.parentbuildingplan=boneyard_settlement_A0
+building.max=0
+building.icon=arrow
+
+//Parameters for initial construction
+initial.startlevel=-15
+initial.nativename=Smeltingchamber
+initial.male=townguardarcher
+initial.male=townguardarcher
+initial.pathwidth=0
+initial.tag=oven
+

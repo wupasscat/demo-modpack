@@ -1,0 +1,36 @@
+//Parameters for the building as a whole
+building.length=80
+building.width=80
+building.areatoclear=0
+building.buildingorientation=2
+building.travelbook_category=playerbuilding
+building.max=0
+building.icon=stone
+
+//Parameters for initial construction
+initial.startlevel=-11
+initial.nativename=Orcish Hive Fortress
+building.startingsubbuilding=fortress_arenatower1
+building.startingsubbuilding=fortress_arenatower2
+building.startingsubbuilding=fortress_barracks1
+building.startingsubbuilding=fortress_barracks2
+building.startingsubbuilding=fortress_bowmaker
+building.startingsubbuilding=fortress_builders
+building.startingsubbuilding=fortress_circle
+building.startingsubbuilding=fortress_cook
+building.startingsubbuilding=fortress_guardtower1
+building.startingsubbuilding=fortress_guardtower2
+building.startingsubbuilding=fortress_ogre
+building.startingsubbuilding=fortress_slavetrader
+building.startingsubbuilding=fortress_toolmaker
+building.startingsubbuilding=fortress_warsmith
+initial.priority=20000
+initial.pathwidth=10
+initial.tag=patrol
+initial.tag=leasure
+initial.tag=playerth
+initial.shop=towncenter
+initial.signs=5,3,2,1,7,8,6,4,0
+initial.extrasimultaneousconstructions=10
+initial.extrasimultaneouswallconstructions=4
+

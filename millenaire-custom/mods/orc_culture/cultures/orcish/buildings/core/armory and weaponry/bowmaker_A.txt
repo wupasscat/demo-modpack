@@ -1,0 +1,20 @@
+//Parameters for the building as a whole
+building.length=15
+building.width=30
+building.areatoclear=1
+building.buildingorientation=3
+building.max=0
+building.version=2
+building.icon=bow
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Bowmaker
+initial.priority=1950
+initial.male=bowmaker
+initial.female=orc_wife
+initial.prioritymovein=25
+initial.tag=armoury
+initial.tag=leasure
+initial.shop=bowmaker

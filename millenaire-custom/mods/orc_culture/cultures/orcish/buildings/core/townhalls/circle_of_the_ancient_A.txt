@@ -1,0 +1,31 @@
+//Parameters for the building as a whole
+building.length=46
+building.width=35
+building.areatoclear=5
+building.buildingorientation=2
+building.startingsubbuilding=circle_shamans
+building.travelbook_category=townhall
+building.max=0
+building.icon=obsidian
+
+//Parameters for initial construction
+initial.startlevel=-15
+initial.nativename=Circle of Ancient Spirits
+initial.priority=2000
+initial.subbuilding=circle_shamans
+initial.male=circleleader
+initial.male=assistant
+initial.female=priestess
+initial.female=priestess
+initial.pathwidth=3
+initial.tag=patrol
+initial.tag=leasure
+initial.shop=towncenter
+initial.signs=5,3,2,1,7,8,6,4,0
+
+//Parameters for specific upgrades
+upgrade1.startlevel=-15
+upgrade1.priority=1250
+upgrade1.extrasimultaneousconstructions=3
+upgrade1.rebuildpath=false
+

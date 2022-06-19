@@ -1,0 +1,14 @@
+//Parameters for the building as a whole
+building.length=7
+building.width=15
+building.areatoclear=1
+building.travelbook_category=othervillage
+building.icon=cobblestone
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Ram
+initial.priority=250
+initial.pathwidth=0
+initial.tag=praying
+

@@ -1,0 +1,23 @@
+name=Orcish Merchant Cart
+weight=15
+radius=30
+mindistancefromspawn=30
+carriesraid=false
+
+
+
+biome=Plains
+biome=Forest
+biome=ForestHills
+biome=Taiga
+biome=TaigaHills
+biome=Roofed Forest
+biome=Roofed Forest M
+
+
+
+
+
+//starting buildings:
+
+centre=merchantcart

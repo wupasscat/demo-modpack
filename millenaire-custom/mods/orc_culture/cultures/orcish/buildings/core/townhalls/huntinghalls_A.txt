@@ -1,0 +1,35 @@
+//Parameters for the building as a whole
+building.length=33
+building.width=34
+building.areatoclear=5
+building.buildingorientation=1
+building.travelbook_category=townhall
+building.max=0
+building.startinggood=wood_birch,1.0,32,64
+building.icon=arrow
+
+//Parameters for initial construction
+initial.startlevel=-6
+initial.nativename=Orc Huntinghalls
+initial.priority=2000
+initial.male=leader
+initial.male=orc_dragonhunter
+initial.male=assistant
+initial.female=captainwife
+initial.pathwidth=3
+initial.tag=patrol
+initial.shop=towncenter
+initial.signs=5,3,2,1,7,8,6,4,0
+
+//Parameters for specific upgrades
+upgrade1.startlevel=-6
+upgrade1.priority=1350
+upgrade1.extrasimultaneousconstructions=1
+upgrade1.extrasimultaneouswallconstructions=1
+upgrade1.subbuilding=huntinghalls_dragonhunters1
+upgrade1.rebuildpath=false
+
+upgrade2.startlevel=-6
+upgrade2.priority=700
+upgrade1.subbuilding=huntinghalls_dragonhunters2
+upgrade2.rebuildpath=false

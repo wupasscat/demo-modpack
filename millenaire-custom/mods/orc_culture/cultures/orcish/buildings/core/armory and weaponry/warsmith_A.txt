@@ -1,0 +1,19 @@
+//Parameters for the building as a whole
+building.length=26
+building.width=42
+building.max=0
+building.areatoclear=0
+building.travelbook_category=house
+building.icon=ironore
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Warsmith
+initial.male=smith
+initial.male=assistantsmith
+initial.female=orc_wife
+initial.pathwidth=4
+initial.tag=oven
+initial.tag=armoury
+initial.shop=warsmith
+

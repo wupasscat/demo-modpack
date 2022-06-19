@@ -1,0 +1,20 @@
+//Parameters for the building as a whole
+building.length=20
+building.width=15
+building.areatoclear=1
+building.max=0
+building.buildingorientation=2
+building.version=1
+building.travelbook_category=house
+building.icon=wool_red
+
+//Parameters for initial construction
+initial.startlevel=-2
+initial.nativename=Orc Burrow
+initial.priority=50000
+initial.male=builder
+initial.female=builderwife
+initial.prioritymovein=5000
+initial.pathwidth=3
+initial.tag=sheeps
+

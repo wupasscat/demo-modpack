@@ -1,0 +1,77 @@
+villager.greeting=Throm'ka, $name! / Hello, $name!
+villager.greeting=Throm'ka! nalkren khe malosh, $name? / Greetings! How are you $name?
+villager.greeting=Jiak feel ij nadgaj setting shal! / I feel a war setting in!
+villager.greeting=Another dautas shal our haag votar. / Another day in our new settlement.
+villager.greeting=Lok'tar ogar $name! / Feel ready for war $name!
+villager.greeting=Ul orcrek haundrekth liwo dan katu! / The orcish horde will stand here!
+
+
+villager.GoPlay=Jiak der throwing mkkek na polgrekt! / I go throwing stones at squirrels!
+
+villager.BecomeAdult=Gol'Kosh!! Lok'amon! / Aha! I am worthy of the tribe!
+
+villager.gorest=Jiak need ij molva kor gith kigija gurat workrekk! / I need a break from all that hard work!
+villager.gorest=He'lel bisik na. / Rest takes over.
+villager.gorest=Ichil chuy ti wenel beora. / I have to sleep now.
+villager.gorest=Yaaawn. / *yawns*
+
+villager.gopray.chosen=Ichil t'an u- orasion. / I speak the prayer.
+villager.gopray=Pixan an gnat. / Spirits help us.
+villager.gopray=Pixan taka gnat ichil k'a'am hoch. / Spirits send us a stong harvest.
+
+villager.calltoarms=Lok-Narash!! / Forces assemble! We are attacked!
+villager.calltoarms=Lok'tar! / Victory!!
+villager.calltoarms=Lok'tar ogar! / Victory or death!!
+
+smith.makesteelsword=Kigiji shatreth ga trek begogh shezag ha! / This shall be my best sword yet!
+smith.makesteelhelmet=Nothing saib pinakt orcrek steel! / Nothing can pierce Orcish steel!
+smith.makesteellegs=Nothing saib pinakt orcrek steel! / Nothing can pierce Orcish steel!
+smith.makesteelchest=Nothing saib pinakt orcrek steel! / Nothing can pierce Orcish steel!
+smith.makesteelboots=Nothing saib pinakt orcrek steel! / Nothing can pierce Orcish steel!
+smith.makeleatherlegs=Lakur ku ul preshbek hajhikul gog drentel agh spit! / Leather is the perfect balance between defence and speed!
+smith.makeleatherboots=Lakur ku ul preshbek hajhikul gog drentel agh spit! / Leather is the perfect balance between defence and speed!
+smith.makeleatherhelmet=Lakur ku ul preshbek hajhikul gog drentel agh spit! / Leather is the perfect balance between defence and speed!
+smith.makeleatherchest=Lakur ku ul preshbek hajhikul gog drentel agh spit! / Leather is the perfect balance between defence and speed!
+smith.makeleatherarmour=Lakur ku ul preshbek hajhikul gog drentel agh spit! / Leather is the perfect balance between defence and speed!
+smith.makeorcsword=Orcrek steel ku ul finest shal ul world! / Orcish steel is the finest in the world!
+smith.makeorcarmor=Orcrek steel ku ul finest shal ul world! / Orcish steel is the finest in the world!
+
+builder.construction=Orcrek Danghulg bash ayh batt drugnawolle agh prackshiag! / Orcish constructions are both durable and practical!
+builder.construction=Dabu. / I obey.
+
+captainwife.greeting=Kulknej gith hadt jubghak katu. Olk just ul men lat know! / We all have jobs here. Not just the men you know!
+cattlefarmerwife.greeting=Do lat know nalkren boring maush saib be? Ma grashnek fwhohamagagg... / Do you know how boring meat can be? My husband clearly doesn't...
+builderwife.greeting=My husband taught alnej nalkren ve baj ul roads katu. / My husband taught me how to make the roads here.
+lumberjack.greeting=Hello! Jiak'm afraid jiak saib't niz lat um lat ayh looking ve bruntha hughrek. Try ul gedad melakh. / Hello! I'm afraid I can't help you if you are looking to buy lumber. Try the townhall.
+smith.greeting=Hmmm. Jiak zinoz tek kokog agat.../ Hmmm... I smell like smoke again...
+minerwife.greeting=Jiak workrekk ul grashbathek na my votar.. / I work the furnace at my home.
+
+captainwife.getGoodsHousehold=Kulknej liwo nekresh gith ro kilgjis holshmek. / We will need all of these goods.
+cattlefarmerwife.getGoodsHousehold=Kulknej liwo nekresh gith ro kilgjis holshmek. / We will need all of these goods.
+builderwife.getGoodsHousehold=Kulknej liwo nekresh gith ro kilgjis holshmek. / We will need all of these goods.
+lumberjack.getGoodsHousehold=Kulknej liwo nekresh gith ro kilgjis holshmek. / We will need all of these goods.
+smith.getGoodsHousehold=Kulknej liwo nekresh gith ro kilgjis holshmek. / We will need all of these goods.
+minerwife.getGoodsHousehold=Kulknej liwo nekresh gith ro kilgjis holshmek. / We will need all of these goods.
+
+captainwife.DeliverGoodsHousehold=Kilgjis ayh neetath halmshegh. / These are needed elsewhere.
+cattlefarmerwife.DeliverGoodsHousehold=Kilgjis ayh neetath halmshegh. / These are needed elsewhere.
+builderwife.DeliverGoodsHousehold=Kilgjis ayh neetath halmshegh. / These are needed elsewhere.
+farmerwife.DeliverGoodsHousehold=Kilgjis ayh neetath halmshegh. / These are needed elsewhere.
+lumberjack.DeliverGoodsHousehold=Kilgjis ayh neetath halmshegh. / These are needed elsewhere.
+smith.DeliverGoodsHousehold=Kilgjis ayh neetath halmshegh. / These are needed elsewhere.
+minerwife.DeliverGoodsHousehold=Kilgjis ayh neetath halmshegh. / These are needed elsewhere.
+
+minerwife.cooking=Using ul grashbathek ku my jubghak katu. / Using the furnace is my job here.
+
+miner.Mining=Es ist harte Arbeit... Aber ich bin froh dass die Orcs mich nicht toten... / It's tough work mining but... I'm glad the orcs don't kill me...
+miner.Mining=Bitte toten much nicht...! / Please don't kill me
+
+lumberjack.BringBackResourcesHome=Look na gith ul kona jiak have holshmek. today! / Look at all the wood I have chopped today!
+lumberjack.ChopTrees=Naog konon ku too madh tor alnej ve fell! / No tree is too big for me to fell!
+lumberjack.GatherGoods=Khe's mir ve know jiak'm tukor enough ve kag gith kigiji! / It's good to know i'm strong enough to carry all this!
+lumberjack.PlantSaplings=Planting sapling's ku ij mir molva tor my kurrauz. / Planting sapling's is a good break for my back.
+
+builderwife.buildPath=Dabu. / I obey.
+
+townguard.patrol=Ek out Kor my Tuztor! Nart Ok smash Okak! / Get out of my way! Or I smash you!
+townguardarcher.patrol=Ek out Kor my Tuztor! Nart Ok pinakt Okak! / Get out of my way! Or I pierce you!

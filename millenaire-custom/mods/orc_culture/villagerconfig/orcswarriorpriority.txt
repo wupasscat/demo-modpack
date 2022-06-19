@@ -1,0 +1,31 @@
+//Japanese config that makes them prefer Japanese weapons and armours to "better" options
+
+//priority for use
+weaponHandToHandPriority=orc_sword,120
+weaponHandToHandPriority=orc_axe,120
+weaponHandToHandPriority=orc_pickaxe,120
+weaponHandToHandPriority=orc_hoe,120
+weaponHandToHandPriority=orc_shovel,120
+
+weaponRangedPriority=orc_bow,140
+
+//priority for pickup
+toolSwordPriority=orc_sword,140
+toolAxePriority=orc_axe,140
+toolPickaxePriority=orc_pickaxe,140
+toolShovelPriority=orc_shovel,140
+toolHoePriority=orc_hoe,140
+
+weaponRangedPriority=orc_bow,140
+
+armourHelmetPriority=orc_warrior_helmet,140
+armourHelmetPriority=orc_hunter_helmet,100
+
+armourChestplatePriority=orc_warrior_chestplate,140
+armourChestplatePriority=orc_hunter_chestplate,100
+
+armourLeggingsPriority=orc_warrior_leggings,140
+armourLeggingsPriority=orc_hunter_leggings,100
+
+armourBootsPriority=orc_warrior_boots,140
+armourBootsPriority=orc_hunter_boots,100

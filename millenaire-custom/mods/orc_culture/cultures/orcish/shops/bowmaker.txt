@@ -1,0 +1,5 @@
+buys=iron,gold,leather,wood,orc_bow
+
+sells=bow,arrow,orc_bow
+
+deliverto=iron,gold,leather,wood

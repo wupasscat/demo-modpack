@@ -1,0 +1,25 @@
+//Parameters for the building as a whole
+building.length=25
+building.width=37
+building.areatoclear=5
+building.buildingorientation=1
+building.travelbook_category=townhall
+building.max=0
+building.startinggood=wheat,1.0,32,128
+building.startinggood=cobblestone,1.0,32,512
+building.startinggood=wool_white,1.0,32,128
+building.startinggood=wood,1.0,32,128
+building.icon=wheat
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Orcish Windmill
+initial.priority=20000
+initial.male=builder
+initial.male=farmer
+initial.female=farmerwife
+initial.pathwidth=3
+initial.tag=playerth
+initial.shop=towncenter
+initial.signs=5,3,2,1,7,8,6,4,0
+initial.extrasimultaneousconstructions=2

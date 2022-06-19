@@ -1,0 +1,37 @@
+//Parameters for the building as a whole
+building.length=24
+building.width=24
+building.areatoclear=1
+building.max=0
+building.buildingorientation=2
+building.travelbook_category=house
+building.icon=purse
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Orc Marketplace
+initial.priority=2000
+initial.male=merchant
+initial.female=orc_wife
+initial.pathwidth=3
+initial.tag=inn
+initial.tag=leisure
+initial.tag=chicken
+initial.signs=1,0
+
+//Parameters for specific upgrades
+upgrade1.priority=1080
+upgrade1.subbuilding=marketplace_A_alchemist
+upgrade1.rebuildpath=true
+
+upgrade2.priority=780
+upgrade2.subbuilding=marketplace_A_armorstand
+upgrade2.rebuildpath=true
+
+upgrade3.priority=480
+upgrade3.subbuilding=marketplace_A_cages
+upgrade3.rebuildpath=true
+
+upgrade4.priority=280
+upgrade4.subbuilding=marketplace_A_foodstand
+upgrade4.rebuildpath=true

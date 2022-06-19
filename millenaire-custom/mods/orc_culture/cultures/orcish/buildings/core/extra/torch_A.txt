@@ -1,0 +1,8 @@
+building.length=1
+building.width=1
+building.max=6
+building.icon=torch
+
+initial.startlevel=-1
+initial.nativename=Torch
+initial.priority=50

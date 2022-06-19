@@ -1,0 +1,28 @@
+//extra tag required for the destination to be valid
+requiredTag=armoury
+priority=100
+
+
+//specify if the label and sentences for this goal is not the name of the goal itself
+sentencekey=makeorcisharmor
+
+
+//duration in millisecondes
+duration=100000
+
+
+//Items that will be held during crafting
+heldItems=iron,leather
+
+
+//each action will require and use all the inputs and produce all the outputs
+input=leather,3
+input=iron,7
+output=orc_hunter_leggings,1
+
+
+//if more than that number of item is present in building, stop goal
+buildinglimit=orc_hunter_leggings,10
+
+//Play sound (does this work?)
+sound=metal

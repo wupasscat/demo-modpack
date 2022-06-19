@@ -1,0 +1,19 @@
+//Parameters for the building as a whole
+building.length=11
+building.width=11
+building.areatoclear=1
+building.max=0
+building.buildingorientation=3
+building.icon=woodhoe
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Toolsmith
+initial.priority=1100
+initial.male=toolmaker
+initial.female=orc_wife
+initial.prioritymovein=15
+initial.tag=armoury
+initial.tag=leasure
+initial.shop=toolmaker

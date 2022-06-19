@@ -1,0 +1,3 @@
+buys=wheat,carrot,potato
+
+sells=wheat,carrot,potato

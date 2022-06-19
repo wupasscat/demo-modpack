@@ -1,0 +1,15 @@
+
+//Parameters for the building as a whole
+building.length=6
+building.width=15
+building.areatoclear=1
+building.max=0
+building.farfromtag=pathnode,30
+building.icon=fence_oak
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Orcish Lumbercart
+initial.priority=550
+initial.tag=pathnode
+initial.tag=leasure

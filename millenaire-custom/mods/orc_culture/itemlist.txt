@@ -1,0 +1,56 @@
+//Missing Vanilla Items
+stick;minecraft:stick;0;Stick
+dye_black;minecraft:dye;0;Dye
+dye_blue;minecraft:dye;4;Dye Blue
+dye_brown;minecraft:dye;3;Dye Brown
+dye_cyan;minecraft:dye;6;Dye Cyan
+dye_gray;minecraft:dye;8;Dye Gray
+dye_green;minecraft:dye;2;Dye Green
+dye_lightblue;minecraft:dye;12;Dye Light Blue
+dye_lightgray;minecraft:dye;7
+dye_magenta;minecraft:dye;13
+dye_orange;minecraft:dye;14
+dye_pink;minecraft:dye;9
+dye_purple;minecraft:dye;5
+dye_red;minecraft:dye;1
+dye_white;minecraft:dye;15
+dye_yellow;minecraft:dye;11
+dye_lime;minecraft:dye;10
+bucket;minecraft:bucket;0;Bucket
+waterbucket;minecraft:water_bucket;0;Water Bucket
+full_bottle;minecraft:potion;0;Water Bottle
+swift_potion;minecraft:potion;8194;Swift Potion
+strength_potion;minecraft:potion;8265;Strength Potion
+healing_potion;minecraft:potion;8197;Health Potion I
+sugar;minecraft:sugar;0;Sugar
+blazepowder;minecraft:blaze_powder;0;Blaze Powder
+torch;minecraft:torch;0;Torch
+wood_acacia;minecraft:log2;0
+wood_darkoak;minecraft:log2;1
+melon;minecraft:melon;0;Watermelon Slice
+
+//Orcish Custom Tools
+orc_sword;orcs:orc_sword;0;Orcish Sword
+orc_bow;orcs:orc_bow;0;Orcish Bow
+orc_axe;orcs:orc_axe;0;Orcish Axe
+orc_pickaxe;orcs:orc_pickaxe;0;Orcish Pickaxe
+orc_hoe;orcs:orc_hoe;0;Orcish Hoe
+orc_shovel;orcs:orc_shovel;0;Orcish Shovel
+
+//Orcish Custom Armor
+orc_warrior_boots;orcs:orc_warrior_boots;0;Orcish Warrior Boots
+orc_warrior_helmet;orcs:orc_warrior_helmet;0;Orcish Warrior Full Helm
+orc_warrior_leggings;orcs:orc_warrior_leggings;0;Orcish Warrior Greaves
+orc_warrior_chestplate;orcs:orc_warrior_chestplate;0;Orcish Warrior Chestplate
+
+orc_hunter_boots;orcs:orc_hunter_boots;0;Orcish Hunting Boots
+orc_hunter_helmet;orcs:orc_hunter_helmet;0;Orcish Hunting Helm
+orc_hunter_leggings;orcs:orc_hunter_leggings;0;Orcish Hunting Leggings
+orc_hunter_chestplate;orcs:orc_hunter_chestplate;0;Orcish Hunting Cuirass
+
+//Orcish Banners
+orc_race;orcs:pattern;0
+orc_player;orcs:pattern;1
+orc_melee;orcs:pattern;2
+orc_ranged;orcs:pattern;3
+orc_magic;orcs:pattern;4

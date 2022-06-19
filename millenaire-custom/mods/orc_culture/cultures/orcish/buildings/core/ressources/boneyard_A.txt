@@ -1,0 +1,44 @@
+//Parameters for the building as a whole
+building.length=31
+building.width=37
+building.areatoclear=3
+building.max=0
+building.buildingorientation=0
+building.startingsubbuilding=boneyardwatchtower
+building.travelbook_category=house
+building.mindistance=0.4
+building.icon=bone
+
+//Parameters for initial construction
+initial.startlevel=-15
+initial.nativename=Boneyard
+initial.priority=1500
+initial.female=minerwife
+initial.male=miner
+initial.male=miner
+initial.male=miner
+initial.subbuilding=boneyardwatchtower
+initial.pathwidth=3
+
+//Parameters for specific upgrades
+upgrade1.startlevel=-15
+upgrade1.priority=1600
+upgrade1.rebuildpath=true
+
+upgrade2.startlevel=-15
+upgrade2.priority=1250
+upgrade2.rebuildpath=false
+
+upgrade3.startlevel=-15
+upgrade3.priority=1100
+upgrade3.subbuilding=boneyard_A_mining
+upgrade3.rebuildpath=true
+
+upgrade4.startlevel=-15
+upgrade4.priority=600
+upgrade4.rebuildpath=false
+
+upgrade5.startlevel=-15
+upgrade5.priority=600
+upgrade5.subbuilding=boneyard_A_mining2
+upgrade5.rebuildpath=true

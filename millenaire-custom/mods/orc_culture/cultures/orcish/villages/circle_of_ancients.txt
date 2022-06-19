@@ -1,0 +1,137 @@
+name=Circle of the Ancients
+weight=15
+carriesraid=true
+icon=totem_of_undying
+
+pathmaterial:pathdirt
+
+innerWallType=borderposts
+innerWallRadius=50
+
+outerWallType=borderposts
+
+//Vanilla biomes
+biome=River
+biome=Plains
+biome=Sunflower Plains
+biome=Roofed Forest
+biome=Desert
+biome=Mesa
+biome=Swampland
+biome=Savanna
+biome=Plateau
+biome=Jungle
+biome=Plains
+biome=Extreme Hills
+biome=Extreme Hills+
+biome=Extreme Hills+ M
+
+//biomes o' plenty
+biome=brushland
+biome=chaparral
+biome=eucalyptus forest
+biome=grassland
+biome=meadow
+biome=orchard
+biome=seasonal forest
+
+//Traverse biomes
+biome=Autumnal Woods
+biome=Meadow
+biome=Birch Forested Hills
+biome=Snowy Coniferous Forest
+biome=Lush Hills
+
+//extraBiomes 
+
+biome=autumn woods
+biome=green hills
+biome=forested hills
+
+//starting buildings:
+centre=circle_of_the_ancient
+start=boneyard_circle
+start=lumberfarm
+start=grove
+start=builderstent
+start=dyefarmhut
+start=brewcart
+
+player=player_small_hut
+player=player_small_tent
+player=player_big_hut
+player=player_big_tent
+player=player_small_field
+player=player_large_field
+
+core=builderstent
+core=dyefarmhut
+core=toolmaker
+core=armormaker
+core=bonecircle
+core=cages
+core=cages
+core=grove
+core=marketplace
+core=brewcart
+core=farmhut
+core=farmhut
+core=windmill
+core=windmill
+core=windmill
+
+secondary=marketplace
+secondary=dyefarmhut
+secondary=brewcart
+secondary=grove
+secondary=nomadstent
+secondary=nomadstent
+secondary=nomadstent
+secondary=nomadstent
+secondary=nomadstent
+secondary=nomadstent
+secondary=nomadstent
+secondary=emptycart
+secondary=emptycart
+secondary=emptycart
+
+secondary=torch
+secondary=torch
+secondary=torch
+secondary=torch
+secondary=torchpillar
+secondary=torchpillar
+
+never=boneyard_settlement
+never=boneyard
+never=boneyardwatchtower
+never=shack
+never=ram
+never=watchtower
+never=bestiary
+never=toolsmith
+never=armorsmith
+never=warsmith
+never=bowmaker
+never=orcish_well
+never=player_circle
+never=player_barracks
+never=player_huntinghalls
+never=fortress
+
+//banner patterns
+banner_json={BlockEntityTag:{Base:1,Patterns:[{Pattern:orcs.orc_magic,Color:15}]}}
+banner_json={BlockEntityTag:{Base:2,Patterns:[{Pattern:orcs.orc_magic,Color:15}]}}
+banner_json={BlockEntityTag:{Base:3,Patterns:[{Pattern:orcs.orc_magic,Color:15}]}}
+banner_json={BlockEntityTag:{Base:4,Patterns:[{Pattern:orcs.orc_magic,Color:0}]}}
+banner_json={BlockEntityTag:{Base:5,Patterns:[{Pattern:orcs.orc_magic,Color:15}]}}
+banner_json={BlockEntityTag:{Base:6,Patterns:[{Pattern:orcs.orc_magic,Color:0}]}}
+banner_json={BlockEntityTag:{Base:7,Patterns:[{Pattern:orcs.orc_magic,Color:15}]}}
+banner_json={BlockEntityTag:{Base:8,Patterns:[{Pattern:orcs.orc_magic,Color:0}]}}
+banner_json={BlockEntityTag:{Base:9,Patterns:[{Pattern:orcs.orc_magic,Color:15}]}}
+banner_json={BlockEntityTag:{Base:10,Patterns:[{Pattern:orcs.orc_magic,Color:15}]}}
+banner_json={BlockEntityTag:{Base:11,Patterns:[{Pattern:orcs.orc_magic,Color:15}]}}
+banner_json={BlockEntityTag:{Base:12,Patterns:[{Pattern:orcs.orc_magic,Color:15}]}}
+banner_json={BlockEntityTag:{Base:13,Patterns:[{Pattern:orcs.orc_magic,Color:15}]}}
+banner_json={BlockEntityTag:{Base:14,Patterns:[{Pattern:orcs.orc_magic,Color:15}]}}
+banner_json={BlockEntityTag:{Base:15,Patterns:[{Pattern:orcs.orc_magic,Color:15}]}}

@@ -1,0 +1,138 @@
+newchat;key:nicevillage,weigth:10
+
+v1;0;Golnagosh fagrogranat ha Ket fakrogg sha'na / We have built a nice settlement here haven't we?
+v2;60;Hagrash noshup trak! Hogrok ne trok dagresh. / Indeed we have! I never regret coming here.
+
+
+newchat;key:harvest,weigth:10
+
+v1;0;Hog Keshrogh gunn drakesh / The crops look good this year.
+v2;30;Hagrash! Ha Ket fakrogg dagresh / Indeed, in fact they always look good here.
+v1;70;Googa Narg negret Ketki Kog shakka Haag Waghdul! / Food is never a problem in this new world!
+
+
+
+newchat;key:lightning,weigth:7
+
+v1;0;Kret zog Wathulbrok gashnek! / That was a big storm we had!
+v2;30;Gashnek Wathulbrok bgho fatol ba. / As always, the storms are very intense here.
+v1;70;Uhmol bog gezek Wathulboshni morrock! /Did you see the lightning hit the ground!
+v2;100;Naog! Jatnar faktol shegg / No! that sounds dangerous!
+v1;130;Bughtul haomdagg gosh ba bgho... / Hopefully it doesn't hit our wool roofs...
+v2;160;Shek... Golnagosh zoz fatolbakk! / Yeah... that would be the end of our settlement!
+
+
+
+newchat;key:city,v1:adult,v2:adult,weigth:2
+
+v1;0;Homock grebt zog na hok ghalthokk...? / Did you already heard the rumors...?
+v2;40;Sha'na ghalthokk? / What which rumors?
+v1;80;Eggrothack maghohul bra na kagesh Uthamakk na gholu gra zog Baun...  / The old ones said, that all clans are preparing for something big...
+v2;120;Baun danug? Sha'na boltregh gra begh? / Something big? What does that mean?
+v1;150;Huoghumal grogh ganeh Ugrageshat mez bra na gokh hanul! / They said a chosen one will unite all clans under one banner!
+v2;180;Naog ghamul! Mek shandrogh batul bag granesh hoshteg zez Golnagosh bog...! / No way! I'll never fight under one banner with those other settlements...!
+v1;220;Huoghumal dogh Ugrageshat ghomog zog ba Orkrekk Golnagosh Mog'bash zeg lograt ba Oggregg Mash'tul... / They said the chosen one will build a orcish hive city and fight against the ogre lords...
+v2;260;Ghrogh danegg zog mek... / Sounds impossible if you ask me...
+v1;300;Mez shegagg nro ba zogal... mez Ugrageshat fhotokk grandhul bra ghek! / Maybe there is something to it... maybe be chosen one already is here and we don't even know it!
+
+
+
+newchat;key:kids1,v1:child,v2:child,notrel:sibling,weigth:10
+
+v1;0;Teg bregh grantokk bratakk boll? / What are you going to be when you grow up?
+v2;30;Mek nizel bra zog Bragg! / I'm going to be a warsmith!
+v1;60;Naog ghamul... / No way...
+v2;80;Teg? / What?
+v1;110;Mek samghul Bragg zog breshegg Golnagosh! Gramhol bra zog na zek bigghu? / I'm going to be the warsmith of our settlement already! Why don't you pick something else?
+v2;160;Naog! Mek nizel bra zog Bragg! / No! I'm going to be a warsmith!
+
+
+
+newchat;key:clothes1,v1:adult,v1:female,v2:adult,v2:female,weigth:10
+
+v1;0;Mek Umaligh ba ganosh brek shoghogg! / My husband and I hunted together last week!
+v2;30;Mek trakesh zog! Maguggh bra nakesh'mog beg? / I envy you! Is this a new pelt you're wearing?
+v1;60;Shek grathock bushgramagg ga bra no kek zog! / Yeah it's one of the many trophies we collected!
+v2;90;Mek Umaligh froghrack shupnu zog manul bog butphull bak grek...! / My husband didn't asked me to go to hunt with him for ages...!
+v1;130;Magbol shak krek zog monni Umaligh. / Then maybe it's time you ask him instead.
+
+
+
+newchat;key:householdTry,v1:adult,v1:female,v2:child,v2:female,rel:parent,weigth:10
+
+v1;0;Zog moshog gra bogesh kek brohk. / You're going to clean the sheep pit today.
+v2;30;Hagrash? Mek kreksh bogdoll? / Really? Do I have to?
+v1;60;Shek zog manul bragh. / Yes it's important that you learn.
+v2;90;Shupnu bartreggh zek. / Still doesn't make it fun.
+
+
+
+newchat;key:pride1,v1:adult,v1:male,v2:adult,v2:male,v1:vtype:builder,weigth:3
+
+v1;0;Mogsha kul zeg bregash Orkrekk Golnagosh! / Look at this mighty orcish settlement!
+v2;40;Golnagosh hagrash bulnadraggh ke zeg... Bunathrock shak kez um bog...? / Indeed the settlement looks quite sturdy... but shouldn't the walls be even higher..?
+v1;70;Wharreck shumg bah! Uni goleckr! Botha Orkrekk grebdull na kesh! / Don't be foolish! Only a coward of an orc would be scared!
+v2;100;Na kesh zog brohk Ogrekk Mash'tul...? / Aren't you scared of the ogre lords..?
+v1;130;Me... Mek... duwagh zek shupnu! / I... I.. of course not!
+
+
+
+newchat;key:pride2,v1:adult,v1:male,v2:adult,v2:male,v1:vtype:smith,weigth:3
+
+v1;0;Khar'tek Mek ka Orkrekk Shezag hagrash grebdull Golnagosh grak na kesh Orkrekk Ogg - Mek shupnu gratholgh brohk zegh kul. / Everytime I see a orcish sword swung in this settlement, or a tree falling by our orcish axes - I know that I made that tool.
+v2;60;Shek zog bulnadraggh goleckr nakh? / Yes you really contribute to everything don't you?
+v1;90;Duwagh zek! Mek kruhmal jathrek broghk batoll kez nesh. / Of course! And I take great pride in my craftsmanship to.
+
+
+
+newchat;key:weird1,v2:child,weigth:2
+
+v1;0;Jatol Bhakbhak zek okmol! / The wolves here as so scary!
+v2;30;Bokh tremh shumg bra brokh no ogregh buntrack shem? / But they don't even look at you unless you attack them or try to feed them?
+v1;80;Shek on... gegshackr don'brakh okmol... / Yes but... something about the eyes scares me...
+v2;110;Bulnadraggh? Don'brakh shumul Bhakbak zog okmol? / Really? The eyes of the friendly wolves scare you?
+v1;140;Bashek tun, tun bartreggh zek! / Stop it, it's not funny!
+
+
+
+newchat;key:flirt1,v1:male,v2:female,v1:adult,v2:adult,v1:hasspouse,v2:nospouse,notrel:sibling,notrel:child,notrel:parent,weigth:5
+
+v1;0;Zog gregogh megnack zek ba Nrothagh? / Do you ever get bored of your partner?
+v2;30;Bashek tun $targetfirstname, zog breshnek bogi zek gash? / Back off $targetfirstname, why don't you try being faithful instead?
+
+
+
+newchat;key:brothertalk1,v1:male,v1:adult,v2:male,v2:adult,rel:sibling,weigth:10
+
+v1;0;Throm'ka Agul shupnu gramekh drakk? / Hello brother what are you up to today?
+v2;30;Mek fregh ba zek kruhmal goleckr bregash nok thek. Ogrekk mashup shupnu kesh? / I was thinking of slaying something to decorate house walls. A head of an ogre perhaps?
+v1;70;Hmm faktol grashek Mek kerrekh kresh bogul mat! / Hmm that sounds good, I might have to do that as well!
+v2;110;Buni ogremak bragesh nok tekk bra kesh ma'toll... Trollkrekk hagash shupnu kesh? / Well if you do then make it something different... A trolls tooth perhaps?
+v1;150;Zog shek! Goleckr drekk kesh zek bra na amutrakk nok thek gramegh? / Your right! It wouldn't do for us to both have the same wall decoration would it?
+v2;200;Bashek tun Hraktak Mek?! / Are you making fun of me?!
+v1;230;Naog! Naogra malthuk! / No! Not at all!
+v2;260;Ozkratk! Mek bregash kruhmal walkosh na' tokk $targetfirstname$. / Liar! I just want to have something unique in my house $targetfirstname$.
+v1;300;Lok'thar Rogar Agul. / Well good luck with your slaying brother.
+
+
+
+newchat;key:sistertalk1,v1:female,v1:adult,v2:female,v2:adult,rel:sibling,weigth:10
+
+v1;0;Ulmeghag grashek omul drekk na zek zog na bregash donghrak batul? / Do you remember that boy with the broken tooth we always used to talk to when we were young?
+v2;50;Oh Shek! Gasehk tro malekk? / Oh yes! What about him?
+v1;80;Mek bregash ghul tra drekk boghul mantrack shageck ma'toll Golnagosh brukh zek na Manegosh'treikk... / I could have sworn I saw him walk through the settlement the other day coming back from his trials...
+v2;130;Umeghr? Manegosh'treikk malekk goshnek? / Really? He survived the warrior trials?
+v1;160;Malekk grogh ankresh don'ghul Orkrekk Manegosh. / He looked very proud and like a real fierce orcish warrior.
+v2;190;Mek mulli drakk greshbash null... / I thought he wouldn't make it...
+v1;220;Mek mulli gron. / So did I.
+
+
+
+newchat;key:brothersister,v1:male,v1:adult,v2:female,v2:adult,rel:sibling,weigth:10
+
+v1;0;Throm'ka! $targetfirstname! Ouhmol grasehk tull ba? / Be greeted! $targetfirstname! What brings you out today?
+v2;30;Mek hronght bal'nek zek na brokh... ishkack recksha balnu molegg... / I'm preparing for the evening... the firepit needs more woodlogs...
+v1;60;Granekt manul bra ghregg shokh moltrakk drakk? / Why don't you try chopping down some trees again?
+v2;100;Hagreth zog gashek mek! / Because you always laugh at me!
+v1;140;Umalekk grungh kez mashek botakk kro! / Well that's because it's always funny!
+
